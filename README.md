@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mouhebab , 23 years old 
-- 👀 I’m interested in Artificial intelligence and machine learning in order to Data Science and Data engineering 
+- 👋 Hi, I’m @mouhebab , 24 years old, a master's in Data Engineering ( major Big Data and minor E-commerce) and Student of Engineering in Computer Science
+- 👀 I’m interested in Data Science ,machine learning, Deep learning, Data mining and Data engineering 
 - 💞️ I’m looking to collaborate on projects, internships, jobs related to my fields of interest 
 - 📫 you can reach me by mail: mouheb.abdelkader.97@gmail.com
